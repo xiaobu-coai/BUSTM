@@ -13,7 +13,8 @@
 
 ## 数据链接
 该数据集是[FewCLUE](https://github.com/CLUEbenchmark/FewCLUE)评测基本的子任务之一，数据可以在以下链接下载：
-[下载](https://github.com/CLUEbenchmark/FewCLUE/tree/main/datasets/bustm)
+
+[https://github.com/CLUEbenchmark/FewCLUE/tree/main/datasets/bustm](https://github.com/CLUEbenchmark/FewCLUE/tree/main/datasets/bustm)
 
 ## 引用
 @misc{BUSTM,
