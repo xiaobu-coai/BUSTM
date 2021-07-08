@@ -17,10 +17,10 @@
 [https://github.com/CLUEbenchmark/FewCLUE/tree/main/datasets/bustm](https://github.com/CLUEbenchmark/FewCLUE/tree/main/datasets/bustm)
 
 ## 引用
-@misc{BUSTM,
-  title={BUSTM: OPPO XiaoBu Dialogue Short Text Matching Dataset},
-  author={OPPO XiaoBu Conversational-AI Center},
-  year={2021},
-  howpublished={\url{https://github.com/xiaobu-coai/BUSTM}},
-}
+  @misc{BUSTM,
+    title={BUSTM: OPPO XiaoBu Dialogue Short Text Matching Dataset},
+    author={OPPO XiaoBu Conversational-AI Center},
+    year={2021},
+    howpublished={\url{https://github.com/xiaobu-coai/BUSTM}},
+  }
 
